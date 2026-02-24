@@ -63,8 +63,6 @@ olist-ecommerce-analysis/
     └── analysis.sql
 ```
 
-## Author
-[Your Name]
 
 ## License
 MIT License
